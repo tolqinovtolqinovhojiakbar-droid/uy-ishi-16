@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1400px;
+    margin: 0 auto;
+}
+.bgm__img{
+    background-image: url(./victor-garcia-1263465-unsplash.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.nav__img{
+    margin-right: 680px;
+}
+span{
+    color: rgba(183, 134, 1, 1);
+}
+.lorem__ots{
+    margin-left: 159px;
+    color: white;
+    margin-top:142px ;
+    font-size: 17px;
+}
+.hero__btn{ 
+    border-color:white;
+   cursor: pointer;
+   padding: 16px 63px;
+   border-radius: 35px;
+   margin: 30px 996px 221px 20px;
+   background-color: rgba(245, 245, 245, 0);
+   color: rgba(255, 255, 255, 0.972);
+}
+.hero__l{
+    margin-left: 15px;
+padding-top: 29px;
+font-size: 60px;
+ color: rgba(183, 134, 1, 1);
+}
+.hero__i{
+    margin-left: 15px;
+    color: white;
+    font-size: 50px;
+}
+.hero__d{
+    padding: 26px;
+    color: white;
+    font-size: 24px;
+}
+.hero__info{
+    padding: 210px 299px 20px 160px;
+}
+.nav__wrapper{
+    justify-content: center;
+    display: flex;
+    padding: 25px 157px;
+}
+.nav__lists{
+     display: flex;
+    gap: 36px;
+}
+.nasha__info{
+    margin-left: 178px;
+   padding-top: 150px;
+   padding-bottom: 60px;
+}
+.nasha__img{
+    margin-left: 180px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 29px;
+}
+.lorem__dembeli{
+    display: flex;
+    background-color: black;
+}
+.lorem__info{
+    margin-top: 12px;
+    color: white;
+}
+a{
+     text-decoration: none;
+}
+.lorem{
+    margin-top: 96px;
+}
+.al{
+    margin-bottom: 24px;
+    margin-top: 22px;
+    margin-left: 70px; 
+    font-size: 22px;
+}
+.lorem__inf{
+    color: white
+}
+.lorem__ip{
+    color: rgb(62, 55, 55);
+}
+.lorem__img{
+    margin-left: 50px;
+}
+.lorem__wrapper{
+   margin-left: 40px;
+   gap: 15px;
+   margin-top: 259px;
+   margin-bottom: 90px;
+}
+.d__info{
+    color: white;
+}
+.container{
+    width: 1444px;
+    background-color: rgba(0, 0, 0, 0.851);
+}
+.alt__lists{
+    color: white;
+}
+.btn__na{ cursor: pointer;
+    margin-top: 81px;
+    padding: 16px 63px;
+    border-radius: 35px;
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: white;
+}
+.na{
+    margin-top: 35px;
+    font-size: 75px;
+    color: rgba(168, 159, 159, 0.96);
+}
+.yust{
+    display: flex;
+    gap: 41px;
+    margin-left: 700px;
+}
+.d__wrapper{
+    margin-top:100px ;
+}
+.d__m{
+   padding-top: 10px;
+   padding-left:30px ;
+   font-size: 18px;
+}
+.w__img{
+    padding-bottom: 23px;
+}
+.d__d{
+    padding: 12px 58px 38px 30px;
+}
+.w__wrapper{
+    background-color: rgba(0, 0, 0, 0.285);
+    flex-wrap: wrap;
+    color: white;
+    padding: 100px 715px 85px 160px;
+}
+.wrapper{
+    margin-bottom: 146px;
+    margin-left: 170px;
+    display: flex;
+    gap: 26px;
+}
+.tajriba{
+    display: flex;
+    flex-wrap: wrap;
+}
+.d{
+    background-color: black;
+    width: 251px;
+}
+.div{
+    padding-left: 700px;
+    margin-top: 10px;
+}
+.ha__wrapper{
+    padding: 177px 327px 200px 148px;
+}.mt{
+    justify-content: center;
+}
+
+.img__bgm{
+    background-image: url(./alesia-kazantceva-283291-unsplash.png);
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
